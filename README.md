@@ -1,2 +1,2 @@
-# brewers-roster-server
-Brewers roster project using server-based implementation
+# Brewers roster
+This implementation of the Brewers roster project utilizes the fetch() functionality in JS.
